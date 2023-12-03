@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Mindpeers-assignment/static/css/main.f930ce2e.css",
+    "main.js": "/Mindpeers-assignment/static/js/main.99dc4f49.js",
+    "static/js/787.77d5c82f.chunk.js": "/Mindpeers-assignment/static/js/787.77d5c82f.chunk.js",
+    "static/media/clock.svg": "/Mindpeers-assignment/static/media/clock.bb98107fabaf1022c5a985e0b4c2e069.svg",
+    "static/media/people.svg": "/Mindpeers-assignment/static/media/people.b2647bce800cd49823f2c1d70fd98f29.svg",
+    "static/media/tools-icon.svg": "/Mindpeers-assignment/static/media/tools-icon.753c1e229c40252bc1b9192a75849a85.svg",
+    "static/media/game.svg": "/Mindpeers-assignment/static/media/game.0439865c87707a3c05b00c46e1ad3ea3.svg",
+    "static/media/lessonsicon.svg": "/Mindpeers-assignment/static/media/lessonsicon.830484729db3cddcb3456b849c823ced.svg",
+    "static/media/time.svg": "/Mindpeers-assignment/static/media/time.1ed2012f9ba880a44c654c4c1d1fea57.svg",
+    "static/media/graph.svg": "/Mindpeers-assignment/static/media/graph.cd276ede5e13a0ac7ec5fd966bf9a0ec.svg",
+    "static/media/exclaim.svg": "/Mindpeers-assignment/static/media/exclaim.272824731c05a8f6100b6b08fdaebcd6.svg",
+    "static/media/down.svg": "/Mindpeers-assignment/static/media/down.167b2f0442d8ae536cc5c633c9cbffc3.svg",
+    "static/media/location.svg": "/Mindpeers-assignment/static/media/location.ac2665ee6742a910dc0bdbd489d91a69.svg",
+    "index.html": "/Mindpeers-assignment/index.html",
+    "main.f930ce2e.css.map": "/Mindpeers-assignment/static/css/main.f930ce2e.css.map",
+    "main.99dc4f49.js.map": "/Mindpeers-assignment/static/js/main.99dc4f49.js.map",
+    "787.77d5c82f.chunk.js.map": "/Mindpeers-assignment/static/js/787.77d5c82f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f930ce2e.css",
+    "static/js/main.99dc4f49.js"
+  ]
+}
